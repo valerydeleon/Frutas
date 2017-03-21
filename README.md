@@ -21,3 +21,8 @@
   * <input>
 
 ### pasos de JavaScript
+1. hacer función
+  * Crear una variable que contenga el texto que ingresa
+  * Crear otra variable que cree el elemento de la lista
+  * Indicar que escriba en el documento el valor de la varable que cotiene el nuevo texto
+  * Escribir el valor dentro de la lista
